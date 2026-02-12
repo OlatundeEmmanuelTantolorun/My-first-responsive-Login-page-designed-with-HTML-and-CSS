@@ -1,10 +1,12 @@
-# My-first-responsive-LOGIN-PAGE-designed-with-HTML-and-CSS
+# Responsive Login Page
+A clean, fully responsive login page designed with **HTML** and **CSS**.  
+This project showcases modern layout techniques, responsive design, and UI styling skills.--
 
-### Features:
- -Fully responsive on desktop, tablet, and mobile
- -Clean and professional design
- -Built with HTML5 and CSS3
+## Features- Fully responsive layout for **mobile, tablet, and desktop** screens  - Styled with CSS transitions, hover effects, and smooth interactions  - HTML structured properly for accessibility and readability  - Cross-browser compatible  --
 
+## Technologies Used- **HTML5**  - **CSS3** only
 
-
-
+## Usage
+1. Clone the repository:
+```bash
+git clone https://github.com/YourUsername/Responsive-Login-Page.gi
