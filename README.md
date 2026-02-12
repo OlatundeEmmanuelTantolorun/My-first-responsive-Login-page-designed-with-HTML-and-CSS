@@ -9,4 +9,4 @@ This project showcases modern layout techniques, responsive design, and UI styli
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/YourUsername/Responsive-Login-Page.gi
+git clone https://github.com//Responsive-Login-Page.gi
